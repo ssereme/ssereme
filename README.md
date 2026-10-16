@@ -20,5 +20,5 @@ Architecting, securing, and troubleshooting mission-critical Telco Cloud infrast
 
 ### 📂 Featured Engineering Repositories
 
-* 📘 **[telco-cloud-ops-runbooks](#)** — Production-grade Standard Operating Procedures (SOPs), Ceph storage recovery workflows, and OpenStack maintenance checklists.
-* 🤖 **[infra-healthcheck-playbooks](#)** — Automated pre/post-maintenance verification playbooks (Ansible & Bash) for carrier-grade clusters.
+* 📘 **[telco-cloud-ops-runbooks](https://github.com/ssereme/telco-cloud-ops-runbooks)** — Production-grade Standard Operating Procedures (SOPs), Ceph storage recovery workflows, and OpenStack maintenance checklists.
+* 🤖 **[infra-healthcheck-playbooks](https://github.com/ssereme/infra-healthcheck-playbooks)** — Automated pre/post-maintenance verification playbooks (Ansible & Bash) for carrier-grade clusters.
