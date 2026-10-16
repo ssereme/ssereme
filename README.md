@@ -1,16 +1,24 @@
-## Hi there 👋
+# Soumaila Sereme
+**Senior Cloud Infrastructure & Telco Cloud Architect | PMP® | RHCA II**  
+📍 Doha, Qatar | 🌐 [LinkedIn](https://www.linkedin.com/in/sereme)
 
-<!--
-**ssereme/ssereme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architecting, securing, and troubleshooting mission-critical Telco Cloud infrastructures, distributed storage systems, and 5G Core cloud-native workloads.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Architecture & Technical Stack
+
+| Domain | Technologies & Solutions |
+| :--- | :--- |
+| **Telco Cloud & NFV** | Nokia CBIS (OpenStack), CBAM, NCS, NCOM, AirFrame, 5G Core (SA) CNFs & VNFs |
+| **Containers & Virt.** | Kubernetes, Red Hat OpenShift (OCP), OpenShift Virtualization (KubeVirt), Helm |
+| **Distributed Storage** | Ceph Storage (RADOS, RBD, OSD Lifecycle, PG Recovery, Cluster Tuning) |
+| **Automation & Ops** | Ansible, Bash, Linux (RHEL), Zabbix, High Availability (Pacemaker/Galera) |
+| **Governance** | PMP® Project Management, MOP / SOP Engineering, Root Cause Analysis (RCA) |
+
+---
+
+### 📂 Featured Engineering Repositories
+
+* 📘 **[telco-cloud-ops-runbooks](#)** — Production-grade Standard Operating Procedures (SOPs), Ceph storage recovery workflows, and OpenStack maintenance checklists.
+* 🤖 **[infra-healthcheck-playbooks](#)** — Automated pre/post-maintenance verification playbooks (Ansible & Bash) for carrier-grade clusters.
